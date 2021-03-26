@@ -6,13 +6,13 @@ https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linea
 
 
 
-# Regulation to prevent overfitting
+## Regulation to prevent overfitting
 Linear regression + penalty = Lasso / Ridge regression
 
-## Lasso regression (L1 regulation)
+### Lasso regression (L1 regulation)
 
 
 
-## Ridge regression (L2 regulation)
+### Ridge regression (L2 regulation)
 
 
